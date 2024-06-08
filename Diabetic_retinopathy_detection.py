@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Diabetic Retinopathy Detection Using Python
-
-# Importing Nessesary libraries and modules from the local python environment
-
-# In[2]:
-
-
 from scipy import misc
 from PIL import Image
 from skimage import exposure
